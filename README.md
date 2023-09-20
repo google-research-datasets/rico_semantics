@@ -21,7 +21,7 @@ from the use of this dataset.**
 ## Important Links
 
 *   [Paper - Towards Better Semantic Understanding of Mobile Interfaces](https://arxiv.org/abs/2210.02663)
-*   [Data processing and modeling code](https://github.com/google-research/google-research/tree/master/rico-semantics)
+*   [Data processing and modeling code](https://github.com/google-research/google-research/tree/master/rico_semantics)
 *   [RICO dataset](https://interactionmining.org/rico) and
     [paper](http://ranjithakumar.net/resources/rico.pdf).
 
